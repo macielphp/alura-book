@@ -31,3 +31,12 @@
     text-decoration: none;
     
 }
+
+@media screen and (min-width: 1024px) {
+    .tópicos__título {
+        font-size: 24px;
+    }
+    .tópico__link {
+        font-size: 24px;
+    }
+}   
