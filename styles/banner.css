@@ -54,12 +54,10 @@
     }
 
     .banner__pesquisa::placeholder {
-        background-position: 10em;
+        background-position: 12em;
     }
 
     .banner {
-        padding: 3em 0;
+        padding: 6em 0;
     }
-    
-    
 }
